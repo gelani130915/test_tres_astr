@@ -36,8 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^0.13.4 #Para peticiones http 
   flutter_bloc: ^8.0.1 #bloc para manejo de estados
-  url_launcher: ^6.0.17 #Abrir una url
-  cached_network_image: ^3.1.0
+  url_launcher: ^6.0.17 #Abrir una url 
 
 dev_dependencies:
   flutter_test:
