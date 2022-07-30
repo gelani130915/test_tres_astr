@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
+
 import 'package:test_tecn/src/models/giphy.dart';
 import 'package:test_tecn/src/models/pagination_model.dart';
-
 import 'package:test_tecn/src/utils/constants.dart';
 import 'package:test_tecn/src/utils/custom_app_exception.dart';
 

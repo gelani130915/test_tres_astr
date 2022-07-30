@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:test_tecn/src/pages/favorites_page.dart';
 import 'package:test_tecn/src/pages/other_page.dart';
 import 'package:test_tecn/src/widgets/custom_bottom_bar.dart';

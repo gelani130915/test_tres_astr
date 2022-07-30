@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 import 'package:test_tecn/src/blocs/giphy_bloc/giphy_bloc.dart';
 import 'package:test_tecn/src/models/giphy.dart';
 import 'package:test_tecn/src/models/pagination_model.dart';

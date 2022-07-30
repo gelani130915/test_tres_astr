@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:test_tecn/src/pages/islas_page.dart';
 import 'package:test_tecn/src/routes/routes.dart';
 
 void main() {
@@ -23,7 +22,7 @@ class MyApp extends StatelessWidget {
       ]);
     }
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Prueba técnica',
       theme: ThemeData(  
         appBarTheme: AppBarTheme(
           backgroundColor: Colors.grey[100],
@@ -39,8 +38,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       routes: getApplicationRoutes(), 
-      initialRoute: 'home',
-      // home: IslasPage(),
+      initialRoute: 'home', 
     );
   }
 }
